@@ -1,24 +1,24 @@
 # Data-Analysis-week-7-Assignment
-Objective For this Assignment:  
+#Objective For this Assignment:  
 To load and analyze a dataset using the pandas library in Python. 
-To create simple plots and charts with the matplotlib library for visualizing the data.
+#To create simple plots and charts with the matplotlib library for visualizing the data.
 
-📊 Data Analysis and Visualization Assignment
+#📊 Data Analysis and Visualization Assignment
 Overview
 
-This project demonstrates basic data analysis and visualization using Python. The dataset used is the Iris dataset (a classic dataset from scikit-learn), which contains measurements of iris flowers across three species.
+#This project demonstrates basic data analysis and visualization using Python. The dataset used is the Iris dataset (a classic dataset from scikit-learn), which contains measurements of iris flowers across three species.
 
-The analysis is divided into three main tasks:
+#>The analysis is divided into three main tasks:
 
-Data Loading & Exploration
+#>Data Loading & Exploration
 
-Basic Data Analysis
+#>Basic Data Analysis
 
-Data Visualization
+#>Data Visualization
 
-The project is implemented in a Jupyter Notebook (.ipynb) or a Python script (.py), and follows the instructions provided in the assignment.
+#The project is implemented in a Jupyter Notebook (.ipynb) or a Python script (.py), and follows the instructions provided in the assignment.
 
-📝 Tasks Completed
+#📝 Tasks Completed
 Task 1: Load and Explore the Dataset
 
 Loaded the dataset using pandas.
@@ -29,7 +29,7 @@ Checked data types and missing values.
 
 Cleaned the dataset by confirming no missing values exist.
 
-Task 2: Basic Data Analysis
+#Task 2: Basic Data Analysis
 
 Computed summary statistics (.describe()), including mean, median, and standard deviation.
 
@@ -37,7 +37,7 @@ Grouped data by species and calculated the average petal/sepal measurements.
 
 Identified patterns such as differences in measurements across species.
 
-Task 3: Data Visualization
+#Task 3: Data Visualization
 
 Created four different types of plots:
 
