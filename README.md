@@ -1,8 +1,4 @@
-Perfect — let’s style the README with **bold sections**, emojis, and a more modern look using Markdown formatting. Here’s a polished version with “cool fonts” (Markdown headers + emphasis + emojis) so it looks professional and eye-catching:
-
----
-
-# 🌸 **Data Analysis and Visualization Project**
+# 🌸 **Data Analysis and Visualization Assignment**
 
 ## 📖 **Overview**
 
